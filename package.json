@@ -1,0 +1,34 @@
+{
+  "name": "js-frameworks-course-assignment-brianep-hub",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "next": "12.1.6",
+    "nookies": "^2.5.2",
+    "react": "18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "18.1.0"
+  },
+  "devDependencies": {
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianEP-hub/javascript-frameworks-ca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianEP-hub/javascript-frameworks-ca/issues"
+  },
+  "homepage": "https://github.com/BrianEP-hub/javascript-frameworks-ca#readme"
+}

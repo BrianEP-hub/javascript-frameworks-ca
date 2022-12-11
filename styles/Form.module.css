@@ -1,0 +1,9 @@
+.formCard {
+    display: flex;
+    flex-flow: column;
+    width: 30%;
+    padding: 10px;
+  }
+  .btn {
+    margin-top: 20px;
+  }

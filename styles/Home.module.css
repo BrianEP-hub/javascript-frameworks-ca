@@ -1,0 +1,9 @@
+.container {
+    padding: 0 2rem;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 10px;
+  }
+  .card {
+    width: 40%;
+  }
